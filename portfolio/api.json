@@ -6,28 +6,28 @@
         "1": [{
           "bg": "to right bottom, #8eeab6, #008eff",
           "title": "New Portfolio",
-          "description": "Upser Experience upgraded new portfolio site.",
+          "description": "Upser Experience upgraded new portfolio site",
           "link": "/"
         }],
 
         "2": [{
           "bg": "to right top, black, red",
           "title": "Streaming UI",
-          "description": "Next generation UI for streaming services such as LinkFire and LinkCore.",
+          "description": "Next generation UI for streaming services",
           "link": "github.com/Hideko-Dev/Streaming-UI"
         }],
 
         "3": [{
           "bg": "to right bottom, yellow, red",
           "title": "CDX",
-          "description": "A Simple free cdn service.",
+          "description": "A Simple free cdn service",
           "link": "github.com/Hideko-Dev/Streaming-UI"
         }],
 
         "4": [{
           "bg": "to right top, black, red",
           "title": "Streaming UI",
-          "description": "Next generation UI for streaming services such as LinkFire and LinkCore.",
+          "description": "test",
           "link": "github.com/Hideko-Dev/Streaming-UI"
         }]
         
