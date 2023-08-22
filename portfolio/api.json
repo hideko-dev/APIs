@@ -4,44 +4,30 @@
     "works": [
       {
         "1": [{
-          "bg": "to right bottom, #8eeab6, #008eff",
+          "bg": "linear-gradient(to right bottom, #8eeab6, #008eff)",
           "title": "New Portfolio",
           "description": "Upser Experience upgraded new portfolio site",
           "link": "/"
         }],
 
         "2": [{
-          "bg": "to right top, black, red",
+          "bg": "linear-gradient(to right top, black, red)",
           "title": "Streaming UI",
           "description": "Next generation UI for streaming services",
           "link": "github.com/Hideko-Dev/Streaming-UI"
         }],
 
         "3": [{
-          "bg": "to right bottom, yellow, red",
+          "bg": "linear-gradient(to right bottom, yellow, red)",
           "title": "CDX",
           "description": "A Simple free cdn service",
           "link": "github.com/Hideko-Dev/Streaming-UI"
         }],
 
         "4": [{
-          "bg": "to right top, black, red",
+          "bg": "linear-gradient(to right top, black, red)",
           "title": "Streaming UI",
           "description": "test",
-          "link": "github.com/Hideko-Dev/Streaming-UI"
-        }],
-
-        "5": [{
-          "bg": "to right bottom, orange, green",
-          "title": "GavineUI",
-          "description": "A CSS Framework for React",
-          "link": "github.com/Hideko-Dev/Streaming-UI"
-        }],
-
-        "6": [{
-          "bg": "to right top, yellow, blue",
-          "title": "WebSchema",
-          "description": "だからお前誰っていう歌詞",
           "link": "github.com/Hideko-Dev/Streaming-UI"
         }]
         
