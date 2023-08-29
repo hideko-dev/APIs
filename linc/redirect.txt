@@ -1,0 +1,4 @@
+{ id: '/', to: 'https://hideko.cf' },
+{ id: '/github', to: 'https://github.com/Hideko-Dev' },
+{ id: '/linkedin', to: 'https://www.linkedin.com/in/hideko-cat-143a3b285/' },
+{ id: '/instagram', to: 'https://instagram.com/hideko_cat/' }
