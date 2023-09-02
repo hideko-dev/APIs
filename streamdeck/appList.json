@@ -1,1 +1,22 @@
+[
+  {
+    "lists": [
 
+      {
+        "route": "/notepad",
+        "cmd": "notepad"
+      },
+
+      {
+        "route": "/test",
+        "cmd": "notepad"
+      },
+
+      {
+        "route": "/aaa",
+        "cmd": "notepad"
+      },
+      
+    ]
+  }
+]
