@@ -1,16 +1,24 @@
 [
   {
-    "route": "/notepad",
-    "cmd": "notepad"
-   },
-  
-  {
-    "route": "/test",
-    "cmd": "notepad"
-   },
-  
-  {
-    "route": "/sass",
-    "cmd": "notepad"
-   },
+    "lists": [
+      {
+        
+        "1": [{
+          "route": "/notepad",
+          "cmd": "notepad"
+        }],
+        
+        "2": [{
+          "route": "/notepads",
+          "cmd": "notepad"
+        }],
+
+        "3": [{
+          "route": "/sass",
+          "cmd": "notepad"
+        }],
+        
+      }
+    ]
+  }
 ]
