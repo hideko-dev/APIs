@@ -29,7 +29,14 @@
           "title": "Streaming UI",
           "description": "test",
           "link": "github.com/Hideko-Dev/Streaming-UI"
-        }]
+        }],
+
+        "5": [{
+          "bg": "linear-gradient(to right top, green, white)",
+          "title": "CloudPrompts",
+          "description": "Cloud AI prompts for everyone",
+          "link": "github.com/Hideko-Dev/Streaming-UI"
+        }],
         
       }
     ]
